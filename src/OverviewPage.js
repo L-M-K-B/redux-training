@@ -2,9 +2,14 @@ import React /*, { useState, useEffect }*/ from 'react';
 // import { setLocal, getLocal } from '../services';
 import { SingleRecipeOverview } from './SingleRecipeOverview';
 
-import {GridHeaderSmall, MainArea, ContentContainer} from "./styles/componentStyles";
+import {
+  GridHeaderSmall,
+  MainArea,
+  ContentContainer,
+} from './styles/componentStyles';
 
 export function OverviewPage({ recipesList, onToggleFavorite }) {
+  // TODO: redux
   // const [favFilterStatus, setFavFilterStatus] = useState(
   //   getLocal('favFilterStatus') || false
   // );

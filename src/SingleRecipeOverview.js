@@ -24,7 +24,8 @@ import IconCookie from './images/IconCookie.svg';
 
 export function SingleRecipeOverview({
   recipe,
-  favoriteStatus, // TODO: is coming from redux later
+  // TODO: is coming from redux later
+  favoriteStatus,
   onToggleFavorite,
 }) {
   const { _id, recipeName, time, difficulty, tags, titleImage } = recipe;
@@ -35,8 +36,8 @@ export function SingleRecipeOverview({
   }
 
   function Tags({ tags }) {
-  return <StyledTagList>{tags.join('  ●  ')}</StyledTagList>
-}
+    return <StyledTagList>{tags.join('  ●  ')}</StyledTagList>;
+  }
 
   return (
     <OverviewContainer>
@@ -70,14 +71,14 @@ export function SingleRecipeOverview({
 
           <Difficulty>
             <Label>Level of Effort: </Label>
-            {getCookies(difficulty).map(element => (
+            {getCookies(difficulty).map((element) => (
               <Cookie src={IconCookie} />
             ))}
           </Difficulty>
         </TimeEfford>
 
         <Tags
-          key={tag => {
+          key={(tag) => {
             const index = tags.indexOf(tag);
             console.log('index', index);
             return index;

@@ -48,6 +48,7 @@ export const AppHeader = styled.header`
 
 export const AppLink = styled.a`
   color: #61dafb;
+  padding-top: 60px;
 `;
 
 // OverviewPage
@@ -203,3 +204,113 @@ export const StyledTagList = styled.div`
     align-self: center;
   }
 `;
+
+// SingleRecipeDetails
+export const BoxContainer = styled.div`
+  width: 100%;
+  min-height: 55px;
+  margin-bottom: 30px;
+  padding-top: 5px;
+  border-radius: ${borderRadius};
+  box-shadow: ${orangeBoxShadow} ${oShadow};
+`;
+
+export const BoxInnerContainer = styled.div`
+  border-radius: ${borderRadius};
+  margin: 8px;
+`;
+
+export const FavoriteRecipe = styled.div`
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+`;
+export const TitleImage = styled.img`
+  width: 100%;
+  margin-top: 15px;
+`;
+export const BasicDataGrid = styled.div`
+  @media (max-width: 374px) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  @media (min-width: 375px) {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    grid-template-rows: repeat(3, 58px);
+    align-items: center;
+  }
+`;
+export const YieldKey = styled.p`
+  margin: 0;
+  @media (min-width: 375px) {
+    grid-column: 1;
+    grid-row: 1;
+  }
+`;
+export const YieldValueDiv = styled.div`
+  display: flex;
+  align-items: center;
+
+  @media (max-width: 374px) {
+    margin-bottom: 15px;
+  }
+
+  @media (min-width: 375px) {
+    grid-column: 2;
+    grid-row: 1;
+  }
+`;
+export const YieldValueP = styled.p`
+  margin: 0 0 0 5px;
+`;
+export const TimeKey = styled.p`
+  margin: 0;
+
+  @media (min-width: 375px) {
+    grid-column: 1;
+    grid-row: 2;
+  }
+`;
+export const TimeValueDiv = styled.div`
+  display: flex;
+  align-items: center;
+
+  @media (max-width: 374px) {
+    margin-bottom: 15px;
+  }
+  @media (min-width: 375px) {
+    grid-column: 2;
+    grid-row: 2;
+  }
+`;
+export const TimeValueP = styled.p`
+  margin: 0 0 0 5px;
+`;
+export const DifficultyKey = styled.p`
+  margin: 0;
+  @media (min-width: 375px) {
+    grid-column: 1;
+    grid-row: 3;
+  }
+`;
+export const DifficultyValue = styled.div`
+  @media (min-width: 375px) {
+    grid-column: 2;
+    grid-row: 3;
+  }
+`;
+export const StyledTagListRecipe = styled.div`
+  align-self: center;
+
+  @media (min-width: 375px) {
+    grid-column: 1 / span 12;
+    grid-row: 7 / span 1;
+  }
+`;
+
+export const TagsDiv = styled.div`
+  padding: 10px 0 5px 0;
+`;
+
