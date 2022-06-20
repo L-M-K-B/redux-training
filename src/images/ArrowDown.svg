@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="21px" viewBox="0 0 29 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>ArrowDown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ArrowDown">
+            <g transform="translate(2.000000, 2.000000)">
+                <path d="M-9.76996262e-15,0 C2.13904323,0.877864454 4.23890027,2.56791828 6.29957114,5.07016147 C7.77163784,6.85767104 9.74240557,9.46555271 11.2291602,12.757846 C11.6254783,13.6354591 12.0573439,15.0495105 12.524757,17" id="Line-11" stroke="#4B0420" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M12.524757,0 C14.6638002,0.877864454 16.7636572,2.56791828 18.8243281,5.07016147 C20.2963948,6.85767104 22.2671625,9.46555271 23.7539172,12.757846 C24.1502352,13.6354591 24.5821008,15.0495105 25.0495139,17" id="Line-11" stroke="#4B0420" stroke-width="3" stroke-linecap="round" transform="translate(18.787135, 8.500000) scale(-1, 1) translate(-18.787135, -8.500000) "></path>
+                <path d="M0,0 C1.32375722,0.319475947 2.88749173,1.0552608 4.69120353,2.20735457 C6.49491533,3.35944833 9.10609981,5.29033014 12.524757,8" id="Line-12" stroke="#4B0420" stroke-width="3" stroke-linecap="round"></path>
+                <path d="M12.524757,0 C13.8485142,0.319475947 15.4122487,1.0552608 17.2159605,2.20735457 C19.0196723,3.35944833 21.6308568,5.29033014 25.0495139,8" id="Line-12" stroke="#4B0420" stroke-width="3" stroke-linecap="round" transform="translate(18.787135, 4.000000) scale(-1, 1) translate(-18.787135, -4.000000) "></path>
+                <polygon id="Triangle" fill="#4B0420" transform="translate(12.524757, 10.500000) scale(1, -1) translate(-12.524757, -10.500000) " points="12.524757 7.5 15.024757 13.5 10.024757 13.5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

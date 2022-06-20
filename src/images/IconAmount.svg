@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="42px" viewBox="0 0 51 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon Amount</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Amount" transform="translate(-1.000000, -2.000000)">
+            <g transform="translate(2.000000, 2.000000)" stroke="#F8AC08">
+                <g id="Icon-Hand" transform="translate(0.000000, 24.000000)">
+                    <path d="M33.1025588,9.60339293 C33.3837944,7.84313654 32.585271,5 29,5 M22.8889273,5 L23.1842344,5 L29.5,5 M21.5,10 L35.5,10 M35.5,10 C36.3945113,9.91978473 37.160829,9.72014607 37.7989531,9.40108402 C38.4370773,9.08202197 39.3374262,8.4483273 40.5,7.5" id="Shape" stroke-linecap="round"></path>
+                    <path d="M41.4701393,11.8757714 C42.8046452,11.7334011 44.0875756,10.7366792 44.0875756,9.07982499 C44.0875756,7.42297074 43.0190121,6.5195711 41.6274119,6.20478374" id="Shape" stroke-linecap="round" transform="translate(42.778857, 9.040278) rotate(-46.000000) translate(-42.778857, -9.040278) "></path>
+                    <path d="M19.5,15.2 L38.5,15.2" id="Line-4" stroke-linecap="round"></path>
+                    <path d="M38.2658976,15.2 C38.921507,15.2 39.4789828,15.1063431 39.7058046,15.0152931 C40.6466445,14.6376249 41.2700614,14.3489614 41.7754191,14.0174445 C42.4635275,13.5660422 43.1748642,12.8773574 43.909429,11.9513901" id="Shape" stroke-linecap="round"></path>
+                    <rect id="Rectangle" x="-0.5" y="-0.5" width="10" height="18" rx="0.25"></rect>
+                    <circle id="Oval" cx="3.5" cy="3.5" r="1.5"></circle>
+                    <path d="M22.8536225,5.47412188 C21.9811755,3.74833058 19.5945763,1.90998189 18.1404203,1.8082974 M18.1404409,1.80800301 L9.61868623,1.21210387" id="Shape" stroke-linecap="round" transform="translate(16.138274, 3.141210) rotate(-4.000000) translate(-16.138274, -3.141210) "></path>
+                    <path d="M19.5,15.2 C19.2290532,15.2144943 19.0409486,15.2144943 18.9356862,15.2 C16.8233812,14.9091416 15.3281487,14.5297182 14.2866723,14.1913832 C13.1673462,13.8277578 11.5717888,13.0810934 9.5,11.9513901" id="Line-10" stroke-linecap="round"></path>
+                </g>
+                <g id="Icon-Cookie" transform="translate(18.000000, 1.000000)">
+                    <path d="M22.0194453,13.2662364 L22.0194453,15.3423935 L18.0085617,20.8552239 L11.5194453,22.9607336 L5.03032884,20.8552239 L1.01944529,15.3423935 L1.01944529,8.52775097 L5.03032884,3.01492051 L11.4791537,0.922484199 L14.196029,1.35219656 L22.0194453,13.2662364 Z" id="Shape" stroke-linejoin="bevel" transform="translate(11.519445, 11.935072) rotate(-9.000000) translate(-11.519445, -11.935072) "></path>
+                    <circle id="Oval" fill="#F8AC08" cx="6.5" cy="11.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="8.5" cy="18.5" r="1"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="12" cy="11" r="1"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="15.5" cy="16.5" r="1.5"></circle>
+                    <path d="M16.0519003,6.0519003 C16.0519003,9.48955235 18.6819209,11.8670376 22.0519003,12.0519003" id="Path" transform="translate(19.051900, 9.051900) rotate(-11.000000) translate(-19.051900, -9.051900) "></path>
+                    <path d="M11.8,1 C11.8,4.07724735 13.5160554,6.5108273 15.8987091,7.07671679" id="Path"></path>
+                </g>
+                <g id="Icon-Cookie" transform="translate(27.000000, 0.000000)">
+                    <path d="M22.0194453,13.2662364 L22.0194453,15.3423935 L18.0085617,20.8552239 L11.5194453,22.9607336 L5.03032884,20.8552239 L1.01944529,15.3423935 L1.01944529,8.52775097 L5.03032884,3.01492051 L11.4791537,0.922484199 L14.196029,1.35219656 L22.0194453,13.2662364 Z" id="Shape" fill="#FFFFFF" stroke-linejoin="bevel" transform="translate(11.519445, 11.935072) rotate(-9.000000) translate(-11.519445, -11.935072) "></path>
+                    <circle id="Oval" fill="#F8AC08" cx="6.5" cy="11.5" r="1.5"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="8.5" cy="18.5" r="1"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="12" cy="11" r="1"></circle>
+                    <circle id="Oval" fill="#F8AC08" cx="15.5" cy="16.5" r="1.5"></circle>
+                    <path d="M16.0519003,6.0519003 C16.0519003,9.48955235 18.6819209,11.8670376 22.0519003,12.0519003" id="Path" transform="translate(19.051900, 9.051900) rotate(-11.000000) translate(-19.051900, -9.051900) "></path>
+                    <path d="M11.8,1 C11.8,4.07724735 13.5160554,6.5108273 15.8987091,7.07671679" id="Path"></path>
+                </g>
+            </g>
+            <circle id="Oval" stroke="#FFFFFF" fill="#FFFFFF" cx="50.3" cy="7.5" r="5"></circle>
+            <circle id="Oval" stroke="#FFFFFF" fill="#FFFFFF" cx="46.8" cy="3.5" r="5"></circle>
+        </g>
+    </g>
+</svg>
