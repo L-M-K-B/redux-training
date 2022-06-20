@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="33px" viewBox="0 0 35 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon Chef Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Chef-Active" stroke="#FFFFFF" stroke-width="2">
+            <g id="Icon-Chef" transform="translate(-1.500000, 1.000000)">
+                <path d="M26,8 C26,3.581722 22.8659932,0 19,0 C15.1340068,0 12,3.581722 12,8" id="Path" stroke-linecap="round"></path>
+                <path d="M19,13.5 L19,17.5" id="Line-9" stroke-linecap="round"></path>
+                <path d="M13.3989197,13.9341995 C13.0487267,14.8330004 12.8689491,15.5745098 12.8595867,16.1587279 C12.8502243,16.742946 13.0037399,17.6402125 13.3201333,18.8505275" id="Line-9" stroke-linecap="round" transform="translate(13.129051, 16.392363) rotate(-29.000000) translate(-13.129051, -16.392363) "></path>
+                <path d="M24.8989197,13.9341995 C24.5487267,14.8330004 24.3689491,15.5745098 24.3595867,16.1587279 C24.3502243,16.742946 24.5037399,17.6402125 24.8201333,18.8505275" id="Line-9" stroke-linecap="round" transform="translate(24.629051, 16.392363) scale(-1, 1) rotate(-29.000000) translate(-24.629051, -16.392363) "></path>
+                <path d="M13.5011197,11.2733738 C11.8684806,7.29858846 11.023154,5.77745665 6.72533367,5.89991664 C5.24862835,5.94199316 4.13900757,6.60915352 3.12728324,7.3073456 C1.19447336,8.64117982 0.00499148198,10.7746999 0.00499148198,13.6966354" id="Shape" stroke-linecap="round" transform="translate(6.753056, 9.794875) rotate(-60.000000) translate(-6.753056, -9.794875) "></path>
+                <path d="M38.0011197,11.2733738 C36.3684806,7.29858846 35.523154,5.77745665 31.2253337,5.89991664 C29.7486284,5.94199316 28.6390076,6.60915352 27.6272832,7.3073456 C25.6944734,8.64117982 24.5049915,10.7746999 24.5049915,13.6966354" id="Shape" stroke-linecap="round" transform="translate(31.253056, 9.794875) scale(-1, 1) rotate(-60.000000) translate(-31.253056, -9.794875) "></path>
+                <polyline id="Path" stroke-linecap="round" stroke-linejoin="round" points="31 18 31 31 7 31 7 18 7 18"></polyline>
+                <path d="M7.21658654,26.5 L31,26.5" id="Line-8" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

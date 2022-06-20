@@ -1,167 +1,90 @@
-const mockdata = {
-  recipesList: [
-    {
-      _id: '5cf17bb08965831bf2a9bb8f',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/SnickerDoodles01.jpg',
-          explanation: 'Melt the vegan margarine in a small saucepan.',
-        },
-        {
-          number: 2,
-          image: '/images/SnickerDoodles02.jpg',
-          explanation: 'Put it in a mixing bowl and add the cane sugar',
-        },
-        {
-          number: 3,
-          image: '/images/SnickerDoodles03.jpg',
-          explanation:
-            'Beat it until fluffy with a hand mixer or a food processor.',
-        },
-        {
-          number: 4,
-          image: '/images/SnickerDoodles04.jpg',
-          explanation: 'Add vanilla extract.',
-        },
-        {
-          number: 5,
-          image: '/images/SnickerDoodles05.jpg',
-          explanation: 'Add vegetable milk or water. Mix firmly.',
-        },
-        {
-          number: 6,
-          image: '/images/SnickerDoodles06.jpg',
-          explanation:
-            'Sift flour, starch, baking powder and baking soda in a second mixing bowl and mix gently.',
-        },
-      ],
-    },
-    {
-      _id: '5cf17f7f8965831bf2a9bb90',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/joanna-kosinska-340756-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 2,
-          image: '/images/pawel-czerwinski-746610-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 3,
-          image: '/images/scott-webb-51466-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 4,
-          image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-      ],
-    },
-    {
-      _id: '5cf180218965831bf2a9bb91',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/joanna-kosinska-340756-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 2,
-          image: '/images/pawel-czerwinski-746610-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 3,
-          image: '/images/scott-webb-51466-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 4,
-          image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-      ],
-    },
-    {
-      _id: '5cf186858965831bf2a9bb93',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/joanna-kosinska-340756-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 2,
-          image: '/images/pawel-czerwinski-746610-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 3,
-          image: '/images/scott-webb-51466-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 4,
-          image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-      ],
-    },
-    {
-      _id: '5cf180b98965831bf2a9bb92',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/joanna-kosinska-340756-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 2,
-          image: '/images/pawel-czerwinski-746610-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 3,
-          image: '/images/scott-webb-51466-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 4,
-          image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-      ],
-    },
-    {
-      _id: '5cf18a0e8965831bf2a9bb94',
-      detailedDescription: [
-        {
-          number: 1,
-          image: '/images/joanna-kosinska-340756-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 2,
-          image: '/images/pawel-czerwinski-746610-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 3,
-          image: '/images/scott-webb-51466-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-        {
-          number: 4,
-          image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
-          explanation: 'When in doubt just add sprinkles.',
-        },
-      ],
-    },
-  ],
-};
-export default mockdata;
+export const recipesList = [
+  {
+    _id: '5cf180218965831bf2a9bb91',
+    ingredients: [
+      ['90', 'g', 'oatmeal', '90', 'g'],
+      ['50', 'g', 'wheat flour (type 550)', '50', 'g'],
+      ['2', 'tabelspoons', 'milk', '40', 'ml'],
+      ['0.5', 'teaspoon', 'baking powder', '2', 'g'],
+      ['3', 'tabelspoons', 'grated cheese', '45', 'g'],
+      ['50', 'g', 'butter', '50', 'g'],
+      ['1', '', 'eggyolk(s)', '1', ''],
+    ],
+    shortDescription: [
+      '1. Preheat the oven to 160°C.',
+      '2. Mix all ingredients except the yolk until firm.',
+      '3. Firl the pastry 2-3 cm thick and cut it into small circles.',
+      '4. Place the circles on a baking tray and smear them with yolk.',
+      '5. Bake the biscuits 10-15 minutes.',
+    ],
+    tags: ['everyday classic', 'hearty'],
+    recipeName: 'Cheese Oat Biscuits',
+    time:'45',
+    difficulty:'1',
+    amount: 'approx. 22 pieces',
+    titleImage: '/images/kaesekekse.jpg',
+    detailedDescription: [
+      {
+        _id: '5d07847ca38c9e3cf585861b',
+        number:'1',
+        image: '/images/joanna-kosinska-340756-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id: '5d07847ca38c9e3cf585861a',
+        number:'2',
+        image: '/images/pawel-czerwinski-746610-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id: '5d07847ca38c9e3cf5858619',
+        number:'3',
+        image: '/images/scott-webb-51466-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id: '5d07847ca38c9e3cf5858618',
+        number:'4',
+        image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+    ],
+  },
+  {
+    _id:'5cf180b98965831bf2a9bb92',
+    ingredients: [['0', 'g', 'test']],
+    shortDescription: ['This is a test recipe'],
+    tags: ['gluten-free', 'lactose-free', 'sweet'],
+    recipeName: 'Tarte au Chocolat',
+    time:'45',
+    difficulty:'3',
+    amount: '1 tarte baking pan ∅20cm',
+    titleImage: '/images/TarteAuChocolat.jpg',
+    detailedDescription: [
+      {
+        _id:'5d07845fa38c9e3cf5858617',
+        number:'1',
+        image: '/images/joanna-kosinska-340756-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id:'5d07845fa38c9e3cf5858616',
+        number:'2',
+        image: '/images/pawel-czerwinski-746610-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id:'5d07845fa38c9e3cf5858615',
+        number:'3',
+        image: '/images/scott-webb-51466-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+      {
+        _id:'5d07845fa38c9e3cf5858614',
+        number:'4',
+        image: '/images/sharon-mccutcheon-528581-unsplash.jpg',
+        explanation: 'When in doubt just add sprinkles.',
+      },
+    ],
+  },
+];

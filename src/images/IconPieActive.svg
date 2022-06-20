@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #DD2C71;">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Icon Pie-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Pie-active" stroke="#FFFFFF" stroke-width="2">
+            <g id="Icon-Pie" transform="translate(5.000000, 11.000000)">
+                <path d="M19,-1.13686838e-13 C9.85539283,-1.14127911e-13 5.77156959,6.15244332 4.62263196,10.0328634" id="Shape"></path>
+                <path d="M33.6246605,-1.13686838e-13 C24.4800534,-1.14127911e-13 20.1489376,6.15244332 19,10.0328634" id="Shape" transform="translate(26.312330, 5.016432) scale(-1, 1) translate(-26.312330, -5.016432) "></path>
+                <path d="M8.625,22.625 L30.375,22.625" id="Line" stroke-linecap="round"></path>
+                <path d="M33,15 L30.375,22.625" id="Line-2" stroke-linecap="round"></path>
+                <path d="M9,15 L6.375,22.625" id="Line-2" stroke-linecap="round" transform="translate(7.500000, 19.000000) scale(-1, 1) translate(-7.500000, -19.000000) "></path>
+                <path d="M19.0032905,4.4 L19.0032905,7.6" id="Line-3" stroke-linecap="round"></path>
+                <path d="M13.335527,4.4 L12,7.6" id="Line-3" stroke-linecap="round"></path>
+                <path d="M25.335527,4.4 L24,7.6" id="Line-3" stroke-linecap="round" transform="translate(25.000000, 6.000000) scale(-1, 1) translate(-25.000000, -6.000000) "></path>
+                <path d="M1.93334192,10.2367356 C1.54544657,10.2842495 1.38328393,10.2485256 1.21997965,10.5029358 C1.03982355,10.7835992 0.690909091,11.2742344 0.690909091,11.9695039 C0.690909091,13.2950074 1.95389883,14.6908504 3.41563097,14.6908504 C4.8773631,14.6908504 6.21818182,13.4827173 6.21818182,12.1572137" id="Shape" stroke-linecap="round" transform="translate(3.454545, 12.463793) rotate(-300.000000) translate(-3.454545, -12.463793) "></path>
+                <path d="M32.916364,10.1352961 C32.1005453,10.2352271 31.8619695,10.6520772 31.8619695,11.9775808 C31.8619695,13.3030843 33.1249593,14.6989272 34.5866914,14.6989272 C36.0484235,14.6989272 37.1264126,13.2903891 37.3450532,12.0654724" id="Shape" stroke-linecap="round" transform="translate(34.603511, 12.417112) scale(-1, 1) rotate(-300.000000) translate(-34.603511, -12.417112) "></path>
+                <path d="M6,14.520055 C7.3,14.1988592 8.275,13.037809 9.01277782,11.555563 M9.25,11 C9.57638232,12.3898794 10.3891839,13.4620707 11.2739425,14.1879734 C11.94288,14.7368051 12.5,14.7368051 13.4054852,14.9169086 C13.7534033,14.9861104 14.263926,15.0628267 14.6806665,14.9169086 C17.4376756,14.5088876 18.7555546,12.7797514 19,11.555563" id="Shape" stroke-linecap="round"></path>
+                <path d="M19,14.520055 C20.3,14.1988592 21.275,13.037809 22.0127778,11.555563 M22.25,11 C22.5763823,12.3898794 23.3891839,13.4620707 24.2739425,14.1879734 C24.94288,14.7368051 25.5,14.7368051 26.4054852,14.9169086 C26.7534033,14.9861104 27.263926,15.0628267 27.6806665,14.9169086 C30.4376756,14.5088876 31.7555546,12.7797514 32,11.555563" id="Shape" stroke-linecap="round" transform="translate(25.500000, 13.000000) scale(-1, 1) translate(-25.500000, -13.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
